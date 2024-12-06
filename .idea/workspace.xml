@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac1da43e-aa67-4972-be28-623b9eab2e04" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/controllers/CompteServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/controllers/CompteServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/Compte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/Compte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/CompteOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/CompteOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/CompteOuterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/CompteOuterClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/CompteRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/CompteRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/CompteRequestOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/CompteRequestOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/CompteServiceGrpc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/CompteServiceGrpc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetAllComptesRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetAllComptesRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetAllComptesRequestOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetAllComptesRequestOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetAllComptesResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetAllComptesResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetAllComptesResponseOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetAllComptesResponseOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetCompteByIdRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetCompteByIdRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetCompteByIdRequestOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetCompteByIdRequestOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetCompteByIdResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetCompteByIdResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetCompteByIdResponseOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetCompteByIdResponseOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetTotalSoldeRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetTotalSoldeRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetTotalSoldeRequestOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetTotalSoldeRequestOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetTotalSoldeResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetTotalSoldeResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetTotalSoldeResponseOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/GetTotalSoldeResponseOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/SaveCompteRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/SaveCompteRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/SaveCompteRequestOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/SaveCompteRequestOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/SaveCompteResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/SaveCompteResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/SaveCompteResponseOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/SaveCompteResponseOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/SoldeStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/SoldeStats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/SoldeStatsOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/SoldeStatsOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/TypeCompte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/projet/grpc/stubs/TypeCompte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/compte.proto" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/compte.proto" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2poHtXhe9vMLIfMbLruyCD0tkUD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Grpc2Application.executor": "Run",
+    "Maven.grpc [clean].executor": "Run",
+    "Maven.grpc [install].executor": "Run",
+    "Maven.grpc [org.apache.maven.plugins:maven-install-plugin:3.1.3:install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac1da43e-aa67-4972-be28-623b9eab2e04" name="Changes" comment="" />
+      <created>1733425725404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733425725404</updated>
+    </task>
+    <servers />
+  </component>
+</project>

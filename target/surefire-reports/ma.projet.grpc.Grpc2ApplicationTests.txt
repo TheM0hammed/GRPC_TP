@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ma.projet.grpc.Grpc2ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.18 s -- in ma.projet.grpc.Grpc2ApplicationTests
